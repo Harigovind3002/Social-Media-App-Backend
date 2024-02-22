@@ -1,3 +1,5 @@
 fastapi==0.68.0
-sqlalchemy==1.4.23
+sqlalchemy==1.4.22
+pydantic==1.8.2
+uvicorn==0.15.0
 python-jose==3.3.0
